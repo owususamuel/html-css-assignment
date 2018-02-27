@@ -1,0 +1,24 @@
+body
+{ 
+    background-color: #abcdef;
+}
+
+table
+{
+    border: double black 3px;
+    border-collapse: collapse;
+}
+
+th, td
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+	border: double black 1px;
+}
+
+tr.shaded
+{
+    background-color: #67abcd;
+}
