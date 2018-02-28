@@ -15,7 +15,7 @@ a:link {
 
 /* 7, */
 .logo h1 {
-    margin-left: 22%;
+    margin-left: 35%;
 }
 /* 7,8 */
 .logo {
@@ -27,7 +27,7 @@ a:link {
 }
 
 /* 3, */
-main {
+div {
     width: 960px;
     margin: auto;
     border: 2px solid black;
@@ -38,7 +38,7 @@ main {
 article {
     border-radius: 2px;
     border:2px solid #02010D;
-    padding: 5px;
+    padding-top: 5px;
     float: left;
     width: 22%;
 }
