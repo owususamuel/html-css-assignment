@@ -21,7 +21,7 @@ a:link {
 .logo {
     background-image: url("images/cat4.jpg");
     background-repeat:  no-repeat;
-    height: 65px;
+    height: 300px;
     font-family: Broadway;
     font-size: 2em;
 }
@@ -69,7 +69,7 @@ span {
 }
 
 /* 11, */
-.firstUL li:nth-child(3) {
+nav li:nth-child(3) {
     font-style: italic;
 }
 
